@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1492528439 source:d:\codeblocks\projects\course_work_smetana\main.c
+	"Header.h"
+
+1492626927 d:\codeblocks\projects\course_work_smetana\header.h
+	<stdio.h>
+	<time.h>
+	<windows.h>
+
+1492539825 source:d:\codeblocks\projects\course_work_smetana\sort_1.c
+	"Sort_head.h"
+
+1492540344 source:d:\codeblocks\projects\course_work_smetana\sort_2.c
+	"Sort_head.h"
+
+1492545237 source:d:\codeblocks\projects\course_work_smetana\zapov_mas.c
+	"Header.h"
+
+1492531705 source:d:\codeblocks\projects\course_work_smetana\sort_4(hoara).c
+	"Sort_head.h"
+
+1492540678 source:d:\codeblocks\projects\course_work_smetana\sort_3.c
+	"Sort_head.h"
+
+1492539325 source:d:\codeblocks\projects\course_work_smetana\menu.c
+	"Header.h"
+	"Time.h"
+	"Sort_head.h"
+
+1492539711 d:\codeblocks\projects\course_work_smetana\sort_head.h
+	"Header.h"
+
+1492541488 source:d:\codeblocks\projects\course_work_smetana\time.c
+	"Time.h"
+
+1492531953 d:\codeblocks\projects\course_work_smetana\time.h
+	"Header.h"
+	"Sort_head.h"
+
+1492541670 source:d:\codeblocks\projects\course_work_smetana\time_2.c
+	"Time.h"
+
+1492532076 source:d:\codeblocks\projects\course_work_smetana\time_3.c
+	"Time.h"
+
+1492542199 source:d:\codeblocks\projects\course_work_smetana\time_4.c
+	"Time.h"
+
+1494072230 source:d:\codeblocks\projects\Курсова\course_work_smetana\main.c
+	"Header.h"
+
+1494436830 d:\codeblocks\projects\Курсова\course_work_smetana\header.h
+	<stdio.h>
+	<time.h>
+	<windows.h>
+
+1494110444 source:d:\codeblocks\projects\Курсова\course_work_smetana\menu.c
+	"Header.h"
+	"Time.h"
+	"Sort_head.h"
+
+1494110511 d:\codeblocks\projects\Курсова\course_work_smetana\time.h
+	"Header.h"
+	"Sort_head.h"
+
+1494074031 d:\codeblocks\projects\Курсова\course_work_smetana\sort_head.h
+	"Header.h"
+
+1492539825 source:d:\codeblocks\projects\Курсова\course_work_smetana\sort_1.c
+	"Sort_head.h"
+
+1492540344 source:d:\codeblocks\projects\Курсова\course_work_smetana\sort_2.c
+	"Sort_head.h"
+
+1492540678 source:d:\codeblocks\projects\Курсова\course_work_smetana\sort_3.c
+	"Sort_head.h"
+
+1492531705 source:d:\codeblocks\projects\Курсова\course_work_smetana\sort_4(hoara).c
+	"Sort_head.h"
+
+1494110750 source:d:\codeblocks\projects\Курсова\course_work_smetana\time.c
+	"Time.h"
+
+1494110904 source:d:\codeblocks\projects\Курсова\course_work_smetana\time_2.c
+	"Time.h"
+
+1494111038 source:d:\codeblocks\projects\Курсова\course_work_smetana\time_3.c
+	"Time.h"
+
+1494152651 source:d:\codeblocks\projects\Курсова\course_work_smetana\time_4.c
+	"Time.h"
+
+1494069319 source:d:\codeblocks\projects\Курсова\course_work_smetana\zapov_mas.c
+	"Header.h"
+
+1494110441 source:d:\codeblocks\projects\Курсова\course_work_smetana\sort_vect.c
+	"Sort_head.h"
+
+1494111354 source:d:\codeblocks\projects\Курсова\course_work_smetana\time_vect.c
+	"Time.h"
+
